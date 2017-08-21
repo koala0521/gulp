@@ -1,0 +1,1 @@
+console.log("hello"),console.log("我是"),console.log("gulp测试");
